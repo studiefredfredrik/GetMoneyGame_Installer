@@ -1,0 +1,11 @@
+C:\Users\studi_000\Desktop\InstallerFreddy\Installer Freddy\Installer Freddy\bin\Debug\Installer Freddy.exe.config
+C:\Users\studi_000\Desktop\InstallerFreddy\Installer Freddy\Installer Freddy\bin\Debug\Installer Freddy.exe
+C:\Users\studi_000\Desktop\InstallerFreddy\Installer Freddy\Installer Freddy\bin\Debug\Installer Freddy.pdb
+C:\Users\studi_000\Desktop\InstallerFreddy\Installer Freddy\Installer Freddy\obj\Debug\Get Money Game installer.csproj.GenerateResource.Cache
+C:\Users\studi_000\Desktop\InstallerFreddy\Installer Freddy\Installer Freddy\obj\Debug\Installer Freddy.exe
+C:\Users\studi_000\Desktop\InstallerFreddy\Installer Freddy\Installer Freddy\obj\Debug\Installer Freddy.pdb
+C:\Users\studi_000\Desktop\InstallerFreddy\Installer Freddy\Installer Freddy\obj\Debug\GetMoneyGame_Installer.ExtractFiles.resources
+C:\Users\studi_000\Desktop\InstallerFreddy\Installer Freddy\Installer Freddy\obj\Debug\GetMoneyGame_Installer.Finish.resources
+C:\Users\studi_000\Desktop\InstallerFreddy\Installer Freddy\Installer Freddy\obj\Debug\GetMoneyGame_Installer.Form1.resources
+C:\Users\studi_000\Desktop\InstallerFreddy\Installer Freddy\Installer Freddy\obj\Debug\GetMoneyGame_Installer.InstallXNA.resources
+C:\Users\studi_000\Desktop\InstallerFreddy\Installer Freddy\Installer Freddy\obj\Debug\GetMoneyGame_Installer.Properties.Resources.resources

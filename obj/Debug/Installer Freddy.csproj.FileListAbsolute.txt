@@ -1,0 +1,12 @@
+C:\Users\studi_000\Desktop\InstallerFreddy\Installer Freddy\Installer Freddy\bin\Debug\Installer Freddy.exe.config
+C:\Users\studi_000\Desktop\InstallerFreddy\Installer Freddy\Installer Freddy\bin\Debug\Installer Freddy.exe
+C:\Users\studi_000\Desktop\InstallerFreddy\Installer Freddy\Installer Freddy\bin\Debug\Installer Freddy.pdb
+C:\Users\studi_000\Desktop\InstallerFreddy\Installer Freddy\Installer Freddy\obj\Debug\Installer Freddy.csprojResolveAssemblyReference.cache
+C:\Users\studi_000\Desktop\InstallerFreddy\Installer Freddy\Installer Freddy\obj\Debug\Installer_Freddy.Properties.Resources.resources
+C:\Users\studi_000\Desktop\InstallerFreddy\Installer Freddy\Installer Freddy\obj\Debug\Installer Freddy.csproj.GenerateResource.Cache
+C:\Users\studi_000\Desktop\InstallerFreddy\Installer Freddy\Installer Freddy\obj\Debug\Installer Freddy.exe
+C:\Users\studi_000\Desktop\InstallerFreddy\Installer Freddy\Installer Freddy\obj\Debug\Installer Freddy.pdb
+C:\Users\studi_000\Desktop\InstallerFreddy\Installer Freddy\Installer Freddy\obj\Debug\Installer_Freddy.Form1.resources
+C:\Users\studi_000\Desktop\InstallerFreddy\Installer Freddy\Installer Freddy\obj\Debug\Installer_Freddy.ExtractFiles.resources
+C:\Users\studi_000\Desktop\InstallerFreddy\Installer Freddy\Installer Freddy\obj\Debug\Installer_Freddy.Finish.resources
+C:\Users\studi_000\Desktop\InstallerFreddy\Installer Freddy\Installer Freddy\obj\Debug\Installer_Freddy.InstallXNA.resources
