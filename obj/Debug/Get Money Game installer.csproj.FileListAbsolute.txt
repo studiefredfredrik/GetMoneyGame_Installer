@@ -9,3 +9,15 @@ C:\Users\studi_000\Desktop\InstallerFreddy\Installer Freddy\Installer Freddy\obj
 C:\Users\studi_000\Desktop\InstallerFreddy\Installer Freddy\Installer Freddy\obj\Debug\GetMoneyGame_Installer.Form1.resources
 C:\Users\studi_000\Desktop\InstallerFreddy\Installer Freddy\Installer Freddy\obj\Debug\GetMoneyGame_Installer.InstallXNA.resources
 C:\Users\studi_000\Desktop\InstallerFreddy\Installer Freddy\Installer Freddy\obj\Debug\GetMoneyGame_Installer.Properties.Resources.resources
+C:\Users\studi_000\Documents\GitHub\GetMoneyGame_Installer\obj\Debug\Get Money Game installer.csprojResolveAssemblyReference.cache
+C:\Users\studi_000\Documents\GitHub\GetMoneyGame_Installer\obj\Debug\GetMoneyGame_Installer.ExtractFiles.resources
+C:\Users\studi_000\Documents\GitHub\GetMoneyGame_Installer\obj\Debug\GetMoneyGame_Installer.Finish.resources
+C:\Users\studi_000\Documents\GitHub\GetMoneyGame_Installer\obj\Debug\GetMoneyGame_Installer.Form1.resources
+C:\Users\studi_000\Documents\GitHub\GetMoneyGame_Installer\obj\Debug\GetMoneyGame_Installer.InstallXNA.resources
+C:\Users\studi_000\Documents\GitHub\GetMoneyGame_Installer\obj\Debug\GetMoneyGame_Installer.Properties.Resources.resources
+C:\Users\studi_000\Documents\GitHub\GetMoneyGame_Installer\obj\Debug\Get Money Game installer.csproj.GenerateResource.Cache
+C:\Users\studi_000\Documents\GitHub\GetMoneyGame_Installer\bin\Debug\GetMoneyGame_Installer.exe.config
+C:\Users\studi_000\Documents\GitHub\GetMoneyGame_Installer\bin\Debug\GetMoneyGame_Installer.exe
+C:\Users\studi_000\Documents\GitHub\GetMoneyGame_Installer\bin\Debug\GetMoneyGame_Installer.pdb
+C:\Users\studi_000\Documents\GitHub\GetMoneyGame_Installer\obj\Debug\GetMoneyGame_Installer.exe
+C:\Users\studi_000\Documents\GitHub\GetMoneyGame_Installer\obj\Debug\GetMoneyGame_Installer.pdb
